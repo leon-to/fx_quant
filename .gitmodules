@@ -1,0 +1,3 @@
+[submodule "qsforex"]
+	path = qsforex
+	url = https://github.com/mhallsmoore/qsforex.git
