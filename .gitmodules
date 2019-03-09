@@ -1,3 +1,6 @@
 [submodule "qsforex"]
 	path = qsforex
 	url = https://github.com/mhallsmoore/qsforex.git
+[submodule "v20-python"]
+	path = v20-python
+	url = https://github.com/oanda/v20-python.git
